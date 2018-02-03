@@ -1,0 +1,16 @@
+{
+  "header" : {
+      "a" : "db"
+    },
+  "api" : {
+      "admin" : [
+        {"method" : "GET", "url" : "http://www.happyzoo.net"},
+        {"method" : "GET", "url" : "http://www.happyzoo.net"},
+        {"method" : "GET", "url" : "http://www.happyzoo.net"}
+      ]
+    },
+  "options" : {
+    "userId" : "testman",
+    "userPassword" : "testman"
+    }
+}
